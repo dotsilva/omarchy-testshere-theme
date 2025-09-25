@@ -1,4 +1,8 @@
-@define-color foreground #4c4f69; /* text */
-@define-color background #eff1f5; /* base */
-@define-color border     #dce0e8; /* crust */
-@define-color accent     #1e66f5; /* blue */
+/* ────────────────────────────────────────────────────────────
+ * Omarchy Custom Theme for Waybar
+ * Generated with Omarchist
+ * ────────────────────────────────────────────────────────────
+ */
+
+@define-color background #121212;
+@define-color foreground #d7accd;
