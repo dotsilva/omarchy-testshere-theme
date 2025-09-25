@@ -1,9 +1,12 @@
 return {
 	{
 		"bjarneo/pixel.nvim",
-		priority = 1000,
-		config = function()
-			vim.cmd.colorscheme("pixel")
-		end,
+		name = "pixel",
+	},
+	{
+		"LazyVim/LazyVim",
+		opts = {
+			colorscheme = "pixel",
+		},
 	},
 }
