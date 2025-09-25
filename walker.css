@@ -10,8 +10,8 @@
 @define-color border #d7accd;
 @define-color foreground #d7accd;
 @define-color background #121212;
-@define-color hover #2e7d32;
-@define-color accent #8673d4;
+@define-color hover #8673d4;
+@define-color accent #d7accd;
 
 #window {
   background: transparent;
